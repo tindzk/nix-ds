@@ -11,11 +11,6 @@ $ bash <(curl https://nixos.org/nix/install)
 $ source ~/.nix-profile/etc/profile.d/nix.sh
 ```
 
-Finally, add the following line to your shell profile (e.g. `~/.profile`):
-```bash
-source ~/.nix-profile/etc/profile.d/nix.sh
-```
-
 ## Building the environment
 Clone this repository, change the working directory to it and run the following command:
 
