@@ -31,5 +31,5 @@ $ result/bin/ipython notebook
 ```
 
 ## See also
-* [https://www.domenkozar.com/2014/01/02/getting-started-with-nix-package-manager/ Getting started with Nix package manager]
-* [http://datakurre.pandala.org/2015/10/nix-for-python-developers.html Nix for Python developers]
+* [Getting started with Nix package manager](https://www.domenkozar.com/2014/01/02/getting-started-with-nix-package-manager/)
+* [Nix for Python developers](http://datakurre.pandala.org/2015/10/nix-for-python-developers.html)
