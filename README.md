@@ -12,9 +12,11 @@ $ source ~/.nix-profile/etc/profile.d/nix.sh
 ```
 
 ## Building the environment
-Clone this repository, change the working directory to it and run the following command:
+Clone this repository, change the working directory to it and run `nix-build`:
 
 ```bash
+$ git clone git@github.com:tindzk/nix-ds.git
+$ cd nix-ds
 $ nix-build
 ```
 
