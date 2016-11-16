@@ -30,6 +30,13 @@ $ result/bin/python3
 $ result/bin/ipython notebook
 ```
 
+## Upgrading environment
+The environment can be easily upgraded:
+
+```bash
+$ nix-env -u
+```
+
 ## See also
 * [Getting started with Nix package manager](https://www.domenkozar.com/2014/01/02/getting-started-with-nix-package-manager/)
 * [Nix for Python developers](http://datakurre.pandala.org/2015/10/nix-for-python-developers.html)
