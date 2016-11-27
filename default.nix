@@ -23,6 +23,8 @@ stdenv.mkDerivation rec {
         matplotlib
         ipython
         notebook
+        scikitlearn
+        tqdm
       ];
     })
   ];
