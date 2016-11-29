@@ -31,6 +31,7 @@ $ result/bin/ipython notebook
 The environment can be easily upgraded:
 
 ```bash
+$ nix-channel --update
 $ nix-env -u
 ```
 
