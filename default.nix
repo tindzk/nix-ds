@@ -21,10 +21,9 @@ stdenv.mkDerivation rec {
         scipy
         pandas
         matplotlib
-        ipython
-        notebook
         scikitlearn
         tqdm
+        jupyter
       ];
     })
   ];
